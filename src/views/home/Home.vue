@@ -12,7 +12,7 @@
               <li class="d-flex align-items-center mb-4 cv-temp__contact-name">
                 <i class="fa fa-user mr-3"></i>
                 <div class="">
-                  <h2 class="mb-0 ">Tran Da Thao 1111</h2>
+                  <h2 class="mb-0 ">Tran Da Thao 222222</h2>
                   <p class="mb-0">Front-end Developer</p>
                 </div>
               </li>
